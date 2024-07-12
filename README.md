@@ -45,7 +45,7 @@ Al finalizar este curso, estarás preparado para aplicar tus habilidades en esce
 
 ## Contenido del curso
 
-- Sección 1: Introducción al Curso -> En esta sección inicial, se proporciona una visión general de la estructura del curso, los requisitos elementales, y las herramientas y recursos disponibles en Udemy. Además, se incluye una bienvenida del instructor y una serie de evaluaciones tempranas para medir el conocimiento previo.
+- **Sección 1:** Introducción al Curso -> En esta sección inicial, se proporciona una visión general de la estructura del curso, los requisitos elementales, y las herramientas y recursos disponibles en Udemy. Además, se incluye una bienvenida del instructor y una serie de evaluaciones tempranas para medir el conocimiento previo.
 - Sección 2: Flujo de Trabajo -> Se detallan las principales etapas del flujo de trabajo en trading cuantitativo, incluyendo las herramientas y tecnologías necesarias y recomendaciones generales para una operativa eficiente.
 - Sección 3: Conceptos Clave: Inversiones -> Se cubren los fundamentos de los mercados financieros, los instrumentos de inversión, los distintos tipos de análisis y la psicología del trading. También se introducen conceptos avanzados como el trading algorítmico y cuantitativo, y se exploran diferentes estrategias de trading y tipos de órdenes.
 - Sección 4: Tómalo con Seriedad: Sé Diligente -> Enfatiza la importancia de la disciplina, la perseverancia y el compromiso en el trading, destacando la necesidad de desarrollar una mentalidad adecuada antes de implementar estrategias.
