@@ -1,0 +1,14 @@
+CRIM - Tasa de crímenes per cápita por ciudad
+ZN - Proporción de terreno residencial zonificado para lotes de más de 25,000 pies cuadrados
+INDUS - Proporción de acres de negocios no minoristas por ciudad
+CHAS - Variable ficticia del río Charles (1 si el terreno limita con el río; 0 en caso contrario)
+NOX - Concentración de óxidos de nitrógeno (partes por 10 millones)
+RM - Número promedio de habitaciones por vivienda
+AGE - Proporción de unidades ocupadas por sus propietarios construidas antes de 1940
+DIS - Distancias ponderadas a cinco centros de empleo de Boston
+RAD - Índice de accesibilidad a autopistas radiales
+TAX - Tasa de impuesto a la propiedad de valor completo por $10,000
+PTRATIO - Proporción alumno-maestro por ciudad
+B - 1000(Bk - 0.63)^2 donde Bk es la proporción de afroamericanos por ciudad
+LSTAT - % de población de estatus socioeconómico bajo
+MEDV - Valor mediano de las viviendas ocupadas por sus propietarios en $1000's
