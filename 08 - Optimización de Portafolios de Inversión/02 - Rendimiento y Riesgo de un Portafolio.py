@@ -76,8 +76,8 @@ portafolio4 = rendimientos["AAPL"] * apple_porcentaje + rendimientos["MSFT"] * m
 # Unir el rendimiento y volatilidad anualizada de cada portafolio a los datos existentes
 rend_vol_anual.loc["Portafolio 1"] = [portafolio1.mean() * 252, portafolio1.std() * np.sqrt(252)]
 rend_vol_anual.loc["Portafolio 2"] = [portafolio2.mean() * 252, portafolio2.std() * np.sqrt(252)]
-rend_vol_anual.loc["Portafolio 3"] = [portafolio2.mean() * 252, portafolio3.std() * np.sqrt(252)]
-rend_vol_anual.loc["Portafolio 4"] = [portafolio2.mean() * 252, portafolio4.std() * np.sqrt(252)]
+rend_vol_anual.loc["Portafolio 3"] = [portafolio3.mean() * 252, portafolio3.std() * np.sqrt(252)]
+rend_vol_anual.loc["Portafolio 4"] = [portafolio4.mean() * 252, portafolio4.std() * np.sqrt(252)]
 
 # Graficar cada activo (rendimiento esperado vs volatilidad)
 plt.figure(figsize=(22, 12))
