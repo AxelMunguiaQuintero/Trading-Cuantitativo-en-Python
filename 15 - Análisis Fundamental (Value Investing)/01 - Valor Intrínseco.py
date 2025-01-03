@@ -23,7 +23,7 @@ proyecciones_fcf = [fcf * (1 + tasa_crecimiento) ** i for i in range(1, años_pr
 valor_terminal = proyecciones_fcf[-1] * (1 + tasa_crecimiento_terminal) / (tasa_descuento - tasa_crecimiento_terminal)
 
 # Descontar los flujos de caja y el valor terminal al presente
-valor_dcf = sum([fcf / (1 + tasa_crecimiento) ** (i + 1) for i, fcf in enumerate(proyecciones_fcf)])
+valor_dcf = sum([fcf / (1 + tasa_descuento) ** (i + 1) for i, fcf in enumerate(proyecciones_fcf)])
 valor_dcf += valor_terminal / (1+tasa_descuento)**años_proyeccion
 
 # Obtener el número de acciones en circulación
