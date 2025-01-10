@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Librerías Estándar
 ...
 # Librerías Propias

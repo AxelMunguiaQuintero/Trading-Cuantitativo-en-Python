@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Importar librerías
 import yfinance as yf
 import pandas as pd

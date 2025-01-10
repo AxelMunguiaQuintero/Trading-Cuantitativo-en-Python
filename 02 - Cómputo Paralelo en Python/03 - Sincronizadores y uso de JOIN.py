@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Importar librerías
 import multiprocessing
 import numpy as np

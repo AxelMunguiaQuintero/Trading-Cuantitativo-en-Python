@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Importar librerías
 import numpy as np
 import yfinance as yf

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Definir clase "Padre" o "base"
 class Animal:
     

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Importar librerías
 import numpy as np
 from hmmlearn import hmm # pip install hmmlearn==0.3.2

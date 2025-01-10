@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Importar librerías
 from ibapi.client import EClient # Clase que maneja la comunicación hacia el servidor de IB
 from ibapi.wrapper import EWrapper # Clase que recibe la respuesta del servidor y la procesa

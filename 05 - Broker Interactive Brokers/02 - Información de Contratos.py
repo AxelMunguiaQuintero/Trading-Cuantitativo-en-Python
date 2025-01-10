@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Importar librerías
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper

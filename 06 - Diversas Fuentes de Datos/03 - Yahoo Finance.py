@@ -1,6 +1,6 @@
+# -*- coding: utf-8 -*-
 # Importar librerías
 import yfinance as yf # pip install yfinance
-
 
 # Definir parámetros
 ticker = "AAPL"
